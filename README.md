@@ -1,4 +1,4 @@
-# chatgpt link
+# Chatgpt Link
 ## 1. Foundational theory for Power BI & Tableau <br>
 Specific theory topics for both tools <br>
 Summary table
