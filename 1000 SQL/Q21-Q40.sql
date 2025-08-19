@@ -1,4 +1,4 @@
-
+-- 
 CREATE TABLE suppliers ( 
 supplier_id INT PRIMARY KEY, 
 supplier_name VARCHAR(100) 
@@ -51,4 +51,5 @@ where order_date between '2024-01-01' and '2024-01-31';
 --Q 36
 -- Q 38
 -- Q 39
+
 -- Q 40 65
